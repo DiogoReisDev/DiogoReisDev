@@ -28,6 +28,5 @@ Extremamente fissurado por tecnologia, doido pra um dia ser um Linus 2.0</p>
   <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="powershell logo"  />
 </div>
 
-<img src="https://raw.githubusercontent.com/DiogoReisDev/DiogoReisDev/output/snake.svg" alt="Snake animation" />
 
 Dev since 2022 estudando e evoluindo cada vez mais.
